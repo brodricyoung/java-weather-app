@@ -1,0 +1,4 @@
+Rexburg, Idaho, US, 43.8235163, -111.7870222
+London, England, GB, 51.5073219, -0.1276474
+Salt Lake City, Utah, US, 40.7596198, -111.886797
+Provo, Utah, US, 40.2337289, -111.6587085
