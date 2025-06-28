@@ -40,7 +40,7 @@
      // API endpoints and key
      private static final String GEO_API = "http://api.openweathermap.org/geo/1.0/direct";
      private static final String WEATHER_API = "https://api.openweathermap.org/data/2.5/weather";
-     private static final String API_KEY = "f862226ed7a30f2d8500388d342b0d8c";
+     private static final String API_KEY = "";
  
      @SuppressWarnings("resource")
      public static void main(String[] args) {
